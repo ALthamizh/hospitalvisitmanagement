@@ -1,6 +1,6 @@
 package com.allm.hospitals.constants;
 
-import javax.ws.rs.core.MediaType;
+import jakarta.ws.rs.core.MediaType;
 
 public class HospitalsAPIConstants {
 

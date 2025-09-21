@@ -10,8 +10,8 @@ import com.allm.hospitals.validator.PatientValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
-import javax.ws.rs.*;
-import javax.ws.rs.core.Response;
+import jakarta.ws.rs.*;
+import jakarta.ws.rs.core.Response;
 
 import static com.allm.hospitals.constants.HospitalsAPIConstants.MEDIA_JSON_UTF8;
 import static com.allm.hospitals.constants.HospitalsAPIConstants.SC_OK;
