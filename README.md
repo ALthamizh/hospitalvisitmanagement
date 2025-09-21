@@ -1,14 +1,14 @@
 # hospitalvisitmanagement is backend service for hospital visit management.
-patients can get list of hospitals and search hospitals
-patients can schedule visit to a hospital and cancel the visit
+# Sample REST API using Jakarta EE and Spring Boot
 
-Developed using spring boot 2.4.2, jax-rs 2.3.11.RELEASE web services
+Patients can get list of hospitals and search hospitals
+Patients can schedule visit to a hospital and cancel the visit
 
-Github: https://github.com/thamizhselvananbu/hospitalvisitmanagement/tree/master
+Developed using spring boot 3.2.0, Jakarta EE 9 web services
 
 1.Extract the zip file HospitalAPI_java.zip
 
-2.Use IntelliJ -> Go to File -> New -> Modeule from existing sources
+2.Use IntelliJ -> Go to File -> New -> Module from existing sources
 
 3.choose import module from external model with gradle
 
